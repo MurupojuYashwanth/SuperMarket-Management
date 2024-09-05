@@ -19,7 +19,7 @@ Store Information:
 
 ## How It Works
 1. Main Menu:
-       Select a category: Vegetables & Fruits, Dairy, or Meat.
+  - Select a category: Vegetables & Fruits, Dairy, or Meat.
 3. Item Selection:
   - After choosing a category, select the item and specify the quantity.
 3. Bill Generation:
